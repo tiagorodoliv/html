@@ -1,0 +1,73 @@
+/* 4 - External */
+body{
+    margin: 100px;
+}
+h3{
+    color: blueviolet;
+}
+p{
+    color: yellow;
+}
+
+.paragraph{
+    background-color: aquamarine;
+    color: black;
+}
+/* Id */
+#exclusive-title{
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+}
+
+h2{
+    border-bottom: 2px solid red;
+}
+/* Classe */
+.titulo{
+    border-bottom: 2px solid blue;
+}
+/* Id */
+#algum-titulo{
+    border-bottom: 4px solid green;
+
+}
+
+/* nome das cores */
+.color-name{
+    color: rgba(184, 56, 82, 0.486);
+}
+
+/* paragrafo com hex */
+.hex{
+    color: #55a398;
+}
+
+.hex-2{
+    color: #85a567;
+}
+/* Simple hex */
+.simple-hex{
+color: #333;
+}
+
+.simple-hex-2{
+color: #AAA;
+}
+
+.rgb{
+    color: rgb(255, 200, 45);
+}
+
+.mixed-rgb{
+    color: rgb(0, 200, 45);
+
+}
+
+.hsl{
+    color: hsl(100, 20%, 50%);
+}
+
+.hsl-2{
+    color: hsl(201, 40%, 47%);
+}
